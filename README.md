@@ -1,2 +1,5 @@
 # module2-solution
-coursera test
+module2-solution/
+│── index.html
+│── css/
+│   ├── styles.css
